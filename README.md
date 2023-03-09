@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 # ppl-blog
 
 By {{ site.author }}
