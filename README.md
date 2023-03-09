@@ -10,4 +10,4 @@ I am the Scrum Master for this project.
 
 --- [Blog]({{ site.baseurl }}/{{ site.w1 }}) ---
 
-Qapla! © {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+ © {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
