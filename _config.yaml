@@ -1,0 +1,10 @@
+version:     "0001--03-Mar-2023"
+copyright:   "2023"
+author:      "Linus A. W."
+title:       "PPL: LIDAR Project Report"
+githublink:  "https://github.com/linusabhyasaui/ppl-blog/"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
