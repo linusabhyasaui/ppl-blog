@@ -8,6 +8,7 @@ By {{ site.author }}
 [HOME]({{ site.baseurl }}/)
 
 --- As A Scrum Master ---
+
 Working on this project as the Scrum Master I have picked up on several skills which are important for a Scrum Master.
 
 1. Team Management
@@ -18,9 +19,13 @@ What I mean by team management is that you need to be able to communicate with a
 2. Repo management
 
 You need to understand how to build repos which help with the Scrum process, this depends on what repo managing system you use. For an example for the LIDAR project we are using GitLab Enterprise. For those using GitLab Enterprise, the tips I have for you are:
+
 > Use the Epics Feature: Will help in managing which epic each issue is tied to. Also gives you Epic Burndown Charts!
+
 > Use the Sprint/Iterations Feature: Will help you keep track of work done during each sprint. Also gives you epic Burndown Charts!
+
 > Use the Issue system and Issue resolved by commit/pull request: Makes it easier to track which issue has been finished, less work in the long run. Also helps with your epic Burndown Charts!
+
 ~I Like Pretty Burndown Charts (^-^)
 
 
@@ -36,6 +41,7 @@ This is self explanatory but this is how I'll explain it.
 
 
 --- As A Developer ---
+
 Working as a developer on this project I have suffered the fate of:
 
 1. Someone trying to reverse engineer a system with little to no documentation
