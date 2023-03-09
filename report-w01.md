@@ -1,7 +1,7 @@
 ---
 permalink: W01/
 ---
-@import "{{ site.theme }}";
+<!-- @import "{{ site.theme }}"; -->
 ## Week 1 Report
 
 By {{ site.author }}
